@@ -7,8 +7,11 @@
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("John Johnsen");
             Console.ResetColor();
-                //test,mlkjhljkkjhlkjh
-                //ewgfewwrtw
+            //test,mlkjhljkkjhlkjh
+            //ewgfewwrtw
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\nGroetjes van MatsiePatsie");
         }
     }
 }
